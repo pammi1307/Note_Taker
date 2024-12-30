@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Edit page</title>
 <%@include file="all_css_js.jsp"%>
 </head>
 <body>
