@@ -6,7 +6,7 @@
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-
+<!-- Title of the page -->
 <title>Note Taker : Home page</title>
 <%@include file="all_css_js.jsp"%>
 
